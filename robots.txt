@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luisserranocoach.github.io/sitemap.xml
